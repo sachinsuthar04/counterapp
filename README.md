@@ -4,7 +4,7 @@ A new Flutter project.
 
 Screening Document: [Screening Round - Coding Exercise ](<./assets/doc/Coding Problem_1.pdf>)
 
-Based on above document, following are the project architechture setup,
+Based on above document, following are the project architechture setup.
 
 ## Developer
 
