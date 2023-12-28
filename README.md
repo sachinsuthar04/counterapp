@@ -2,15 +2,25 @@
 
 A new Flutter project.
 
-## Getting Started
+Screening Document: [Screening Round - Coding Exercise ](<./assets/doc/Coding Problem_1.pdf>)
 
-This project is a starting point for a Flutter application.
+Based on above document, following are the project architechture setup,
 
-A few resources to get you started if this is your first Flutter project:
+## Developer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Name: SachinKumar Suthar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Age: 33 yrs
+
+Email: sutharsachin90@yahoo.in
+
+Phone Number: [+91-9510981420]
+
+LinkedIn: [Sachin Suthar](https://www.linkedin.com/in/sutharsachin/)
+
+resume: [Tech lead - Flutter](<./assets/doc/SachinResume_Aug.pdf>)
+
+
+### BLoC
+
+The architecture pattern used in this demo is `BLOC`.
